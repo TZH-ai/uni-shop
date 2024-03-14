@@ -44,7 +44,13 @@
       "style": {
         "navigationBarTitleText": "登录"
       }
-    }
+    },
+    {
+      "path": "pages/hot/hot",
+      "style": {
+        "navigationBarTitleText": "热门推荐"
+      }
+    },
   ],
   "globalStyle": {
     "navigationBarTextStyle": "black",
